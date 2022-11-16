@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Landon87
 - 👀 I’m interested in ... Smart-Contracts & Blockchain
-- 🌱 I’m currently learning ...VR, Cryto
+- 🌱 I’m currently learning ...VR, Solidity
 - 💞️ I’m looking to collaborate on ...Anything
 - 📫 How to reach me ...Landondj@gmail.com
 
